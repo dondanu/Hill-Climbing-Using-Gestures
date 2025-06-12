@@ -36,17 +36,9 @@ Before running this project, ensure you have the following installed:
    ```bash
    python game.py
 
-The game should now be running, and you can control it using your hand gestures!
 
-# Screenshots
-##Home Screen
-Displays the game's main menu where you can start the game. <img src="./screenshots/F.png" alt="Home Screen" width="600">
 
-##Gameplay - Accelerate (Right Hand)
-Use your right hand to accelerate by making an open hand gesture. <img src="./screenshots/F2.png" alt="Accelerate Gesture" width="600">
 
-##Gameplay - Brake (Left Hand)
-Use your left hand to brake by making a closed fist gesture. <img src="./screenshots/F3.png" alt="Brake Gesture" width="600">
 
 ##Game in Action
 Shows the gameplay where hand gestures control the car. <img src="./screenshots/F4.png" alt="Gameplay" width="600">
